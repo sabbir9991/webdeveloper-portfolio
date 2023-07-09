@@ -118,3 +118,15 @@ font-size: 18px;
 #what-i-do-description{
     padding: 30px 150px;
 }
+/* skills-container */
+.skills-container{
+    display: flex;
+}
+
+.skills{
+padding: 30px;
+gap: 24px;
+}
+.skill-description{
+
+} 
