@@ -93,6 +93,7 @@ nav a {
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
+    
 }
 
 .section-title {
@@ -112,5 +113,8 @@ font-size: 18px;
    
 }
 .about-info{
-    text-align: center;
+    text-align: center;  
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
